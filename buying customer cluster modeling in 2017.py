@@ -30,7 +30,7 @@ import os
 
 print(os.getcwd())
 
-#direct to 財管可活化流失客模型(交接)的位置
+#direct to 財管可活化流失客模型的位置
 os.chdir('..')
 
 print(os.getcwd())
